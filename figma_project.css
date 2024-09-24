@@ -1,0 +1,49 @@
+:root {
+  --seagreen: #65e4a3;
+  --navy: #0a2640;
+  --gray: #aaaaaa;
+}
+.navbtn1 {
+  width: 115px !important;
+  height: 40px;
+}
+.logo {
+  font-family: "Manrope", sans-serif;
+}
+.navul {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+}
+.firstul {
+  font-size: 17px;
+}
+.line {
+  color: black;
+}
+.sec2btn {
+  margin-block: 100px !important;
+  padding-block: 15px !important ;
+  padding-inline: 50px !important;
+}
+.sec3 {
+  background-color: var(--navy);
+  background-image: url(../assets/Ellipse9.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  padding: 0px;
+}
+.sec3btn {
+  background-color: var(--seagreen) !important;
+  color: var(--navy) !important;
+}
+.sec3email {
+  height: 65px;
+}
+::-webkit-input-placeholder {
+  color: black !important;
+  font-family: "Open Sans", sans-serif;
+  padding-left: 20px;
+}
+.navytext {
+  color: var(--navy);
+}
